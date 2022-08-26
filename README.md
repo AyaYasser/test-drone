@@ -1,4 +1,3 @@
-
 # Introduction 
 Drone project with Spring Boot 2.1.6.RELEASE and Java 8 version
 
